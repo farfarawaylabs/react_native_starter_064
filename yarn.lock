@@ -740,6 +740,11 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@farfarawaylabs/react-native-easy-flex@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@farfarawaylabs/react-native-easy-flex/-/react-native-easy-flex-1.0.4.tgz#1b1613171019feac3121626771a3cb4b0d5a4217"
+  integrity sha512-3Cy5wW1qok+/uPdNvoMtb2/c6ijXfFd7Z0IxFeDmoHG2350gi9bkxvxnX3deuBsFoDmmFWHzAUtCBnFoQ0oxAw==
+
 "@hapi/hoek@^9.0.0":
   version "9.1.1"
   resolved "https://registry.npmjs.org/@hapi/hoek/-/hoek-9.1.1.tgz"
