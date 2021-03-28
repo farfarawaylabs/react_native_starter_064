@@ -740,6 +740,11 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@farfarawaylabs/react-native-animatable-notifications@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@farfarawaylabs/react-native-animatable-notifications/-/react-native-animatable-notifications-1.0.0.tgz#40bc6f31165ef71e299f95233127cf944fc7d892"
+  integrity sha512-cuFfI/6tDTq6uUmtckQ0FnNwp0oJ0ME3wUqZ8IDsorrdbBMhIpd3BvsGni8q5JwEbHMsDrCOviA8LHWCFNAczg==
+
 "@farfarawaylabs/react-native-easy-flex@^1.0.4":
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/@farfarawaylabs/react-native-easy-flex/-/react-native-easy-flex-1.0.4.tgz#1b1613171019feac3121626771a3cb4b0d5a4217"
@@ -5484,6 +5489,11 @@ psl@^1.1.28, psl@^1.1.33:
   version "1.8.0"
   resolved "https://registry.npmjs.org/psl/-/psl-1.8.0.tgz"
   integrity sha512-RIdOzyoavK+hA18OGGWDqUTsCLhtA7IcZ/6NCs4fFJaHBDab+pDDmDIByWFRQJq2Cd7r1OoQxBGKOaztq+hjIQ==
+
+pubsub-js@^1.9.3:
+  version "1.9.3"
+  resolved "https://registry.yarnpkg.com/pubsub-js/-/pubsub-js-1.9.3.tgz#674eea4d568d0402e0527cdb10e2aab7b55621d2"
+  integrity sha512-FhYYlPNOywTh7zN38u5AlG67emA47w6JZd7YgdQU1w8gQbZhhIGxVM0AQosdaINHb2ALb+fhfnVyBJAt4D4IzA==
 
 pump@^3.0.0:
   version "3.0.0"
